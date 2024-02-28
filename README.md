@@ -1,3 +1,4 @@
+# 效果演示
 ![RecyclerSpinView](assets/RecyclerSpinView.gif)
 
 
@@ -35,4 +36,5 @@ RecyclerSpinView 以单一组件的形式实现，但尚未上传到 Maven。需
 
 # 参考
 
+- [https://qijian.blog.csdn.net/article/details/50995268](https://qijian.blog.csdn.net/article/details/50995268)
 - [https://blog.csdn.net/qq_38237224/article/details/120251325](https://blog.csdn.net/qq_38237224/article/details/120251325)
