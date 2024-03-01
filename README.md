@@ -38,3 +38,4 @@ RecyclerSpinView 以单一组件的形式实现，但尚未上传到 Maven。需
 
 - [https://qijian.blog.csdn.net/article/details/50995268](https://qijian.blog.csdn.net/article/details/50995268)
 - [https://blog.csdn.net/qq_38237224/article/details/120251325](https://blog.csdn.net/qq_38237224/article/details/120251325)
+- [Android 组件化](https://xwenchen.github.io/post/071DE5F05689474694D8A705245B423E.html)
